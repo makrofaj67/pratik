@@ -1,0 +1,2 @@
+hyper text = başka textlere bağlantı verebilen textler
+markup langugage = style
